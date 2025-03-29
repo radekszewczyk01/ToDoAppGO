@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Implement authentication",
+    "description": "Create user login and registration system",
+    "status": "in progress"
+  },
+  {
+    "name": "Database backup",
+    "description": "Schedule automatic daily backups",
+    "status": "completed"
+  },
+  {
+    "name": "Fix UI bugs",
+    "description": "Resolve layout issues on the dashboard",
+    "status": "pending"
+  }
+]
