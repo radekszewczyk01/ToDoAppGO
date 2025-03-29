@@ -26,7 +26,7 @@ func OnExit(tasks []models.Task) {
 func OnHelp() {
 	fmt.Println("Available commands:")
 	fmt.Println(" show - Shows tasks table")
-	fmt.Println(" help - Shows tasks table")
+	fmt.Println(" add - Add new task")
 }
 
 func OnShow(tasks []models.Task) {
